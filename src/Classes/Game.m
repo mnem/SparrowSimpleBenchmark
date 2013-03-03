@@ -5,7 +5,7 @@
 
 #import "Game.h" 
 
-const BOOL ANIMATE = NO;
+const BOOL ANIMATE = YES;
 const int NUM_SPRITES = 500;
 
 // --- private interface ---------------------------------------------------------------------------
